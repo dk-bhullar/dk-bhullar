@@ -1,30 +1,14 @@
-👋 Hello, I'm Damanpreet!
-
-💻 Frontend Developer
-
-🚀 Over six years of experience in UI development and design
-
-🛠️ Skills: HTML5, CSS3, JavaScript, React JS, React Native
-
-🌐 Currently crafting efficient and user-friendly web and mobile interfaces
-
-🛒 E-commerce Expert: Extensive background in developing for platforms like Walmart
-
-🤝 Collaborative Spirit: Working seamlessly with agile (Scrum) teams to implement new features and maintain codebase consistency
-
-🔍 Testing Guru: Thoroughly test and debug applications using tools like React Native Debugger
-
-🛠️ Tool Belt: Figma, Splunk, Bootstrap, Redux, Jest - using the best to enhance UI functionality and quality
-
-📈 Passionate about delivering top-notch user experiences, keeping up with the latest trends and best practices in UI development
-
-🌱 I'm currently leaning towards being a full-stack developer.
-
-🌟 Let's code for a better user experience together!
+# 💫 About Me:
+🔭 I’m currently working on:<br>Improving React Application architecture I created on Hackathon.<br><br>👯 I’m looking to collaborate on:<br>React and React Native projects<br><br>🌱 I’m currently learning:<br>Advanced Node.js and AWS Services<br><br>💬 Ask me about:<br>JavaScript, React, React Native, and any general software development questions.<br><br>⚡ Fun fact:<br>I love dogs.
 
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/dk-bhullar) 
 
-<!---
-dk-bhullar/dk-bhullar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![SPLUNK](https://img.shields.io/badge/splunk-000000.svg?style=for-the-badge&logo=splunk&color=%23000000) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![KIBANA](https://img.shields.io/badge/kibana-005571.svg?style=for-the-badge&logo=kibana&logoColor=white&color=%23005571) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Semantic UI React](https://img.shields.io/badge/Semantic%20UI%20React-%2335BDB2.svg?style=for-the-badge&logo=SemanticUIReact&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=dk-bhullar&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
